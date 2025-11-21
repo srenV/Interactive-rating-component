@@ -17,4 +17,4 @@ Very simple: choose a rating from 1 to 5 and submit it. Afterwards, the thank-yo
 ## Author
 
 - Frontend Mentor – [@srenV](https://www.frontendmentor.io/profile/srenV)  
-- GitHub – [srenV](https://github.com/srenV)# SPLITTER---Tip-Calculator
+- GitHub – [srenV](https://github.com/srenV)
